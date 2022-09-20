@@ -1,0 +1,19 @@
+base_config:
+  - egs/egs_bases/tts/base_zh.yaml
+raw_data_dir: 'data/raw/WenetSpeech'
+processed_data_dir: 'data/processed/wenetspeech'
+binary_data_dir: 'data/binary/wenetspeech'
+pre_align_cls: egs.datasets.audio.wenetspeech.pre_align.WenetSpeechPreAlign
+
+use_spk_id: false
+use_spk_embed: true
+test_num: 200
+binarization_args:
+  trim_eos_bos: true
+  with_spk_embed: true
+
+use_pitch_embed: false
+vocoder: vocoders.hifigan.HifiGAN
+vocoder_ckpt: 'pretrained/hifigan_hifitts'
+
+language: zh

@@ -1,0 +1,201 @@
+,item_name,spk,txt,ph,wav_fn,others
+0,1,SPK1,卡尔普陪外孙玩滑梯.,<BOS> k a3 | er3 | p u3 # p ei2 # w ai4 | s un1 # w an2 # h ua2 | t i1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000000_000001.wav,{}
+1,2,SPK1,假语村言别再拥抱我.,<BOS> j ia3 | y u3 # c un1 | y an2 | b ie2 # z ai4 # y ong1 | b ao4 # w o3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000001_000002.wav,{}
+2,3,SPK1,宝马配挂跛骡鞍。貂蝉怨枕董翁榻.,<BOS> b ao3 | m a3 # p ei4 | g ua4 # b o3 # l uo2 | an1 | d iao1 | ch an2 # y uan4 # zh en3 # d ong3 | w eng1 # t a4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000002_000003.wav,{}
+3,4,SPK1,邓小平与撒切尔会晤.,<BOS> d eng4 | x iao3 | p ing2 # y u3 # s a1 | q ie4 | er3 # h ui4 | w u4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000003_000004.wav,{}
+4,5,SPK1,老虎幼崽与宠物犬玩耍.,<BOS> l ao3 | h u3 # y ou4 | z ai3 # y u3 # ch ong3 | w u4 | q uan3 # w an2 | sh ua3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000004_000005.wav,{}
+5,6,SPK1,身长约五尺二寸五分或以上.,<BOS> sh en1 | ch ang2 # y ue1 # w u3 | ch i3 # er4 | c un4 # w u3 | f en1 # h uo4 # y i3 | sh ang4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000005_000006.wav,{}
+6,7,SPK1,赵荻约曹云腾去鬼屋.,<BOS> zh ao4 | d i2 # y ue1 # c ao2 | y un2 | t eng2 # q u4 # g ui3 | w u1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000006_000007.wav,{}
+7,8,SPK1,展品虽有。展员却颓.,<BOS> zh an3 | p in3 # s ui1 # y ou3 | zh an3 | y uan2 # q ue4 # t ui2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000007_000008.wav,{}
+8,9,SPK1,以散居儿童和幼托儿童为主.,<BOS> y i3 # s an3 | j u1 # er2 | t ong2 # h e2 # y ou4 | t uo1 # er2 | t ong2 # w ei2 | zh u3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000008_000009.wav,{}
+9,10,SPK1,柯特妮身穿豹纹大衣.,<BOS> k e1 | t e4 | n i1 # sh en1 | ch uan1 # b ao4 | w en2 # d a4 | y i1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000009_000010.wav,{}
+10,11,SPK1,引才要筛。用才也要筛.,<BOS> y in3 | c ai2 # y ao4 # sh ai1 | y ong4 # c ai2 # y e3 # y ao4 # sh ai1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000010_000011.wav,{}
+11,12,SPK1,南越昆仑山与西藏接壤.,<BOS> n an2 | y ue4 # k un1 | l un2 | sh an1 # y u3 # x i1 | z ang4 # j ie1 | r ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000011_000012.wav,{}
+12,13,SPK1,翁凯兰防乳腺癌宣传照.,<BOS> w eng1 | k ai3 | l an2 | f ang2 # r u3 | x ian4 | ai2 # x uan1 | ch uan2 | zh ao4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000012_000013.wav,{}
+13,14,SPK1,我回右哼哼左哼哼.,<BOS> w o3 # h ui2 | y ou4 # h eng1 | h eng # z uo3 # h eng1 | h eng <EOS>,data/processed/biaobei/mfa_inputs/0/0000013_000014.wav,{}
+14,15,SPK1,吴云宝奶奶挑选枇杷.,<BOS> w u2 | y un2 | b ao3 # n ai3 | n ai # t iao1 | x uan3 # p i2 | p a2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000014_000015.wav,{}
+15,16,SPK1,此外广本也将由少壮派掌管.,<BOS> c i3 | w ai4 # g uang3 | b en3 # y e3 # j iang1 # y ou2 # sh ao4 | zh uang4 | p ai4 # zh ang3 | g uan3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000015_000016.wav,{}
+16,17,SPK1,右蛮舞袅袅。左琼歌昔昔.,<BOS> y ou4 | m an2 # w u3 # n iao3 | n iao3 | z uo3 | q iong2 | g e1 # x i1 | x i1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000016_000017.wav,{}
+17,18,SPK1,眼眶宽阔而低矮。鼻短而宽.,<BOS> y an3 | k uang4 # k uan1 | k uo4 # er2 # d i1 | ai3 | b i2 | d uan3 # er2 # k uan1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000017_000018.wav,{}
+18,19,SPK1,霞浦县牙城镇乌岐瓦窑村水位猛涨.,<BOS> x ia2 | p u3 | x ian4 # y a2 # ch eng2 | zh en4 # w u1 | q i2 | w a3 # y ao2 | c un1 # sh ui3 | w ei4 # m eng3 | zh ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000018_000019.wav,{}
+19,20,SPK1,霍思燕露背秀乳沟性感惹火.,<BOS> h uo4 | s i1 | y an4 # l u4 | b ei4 # x iu4 # r u3 | g ou1 # x ing4 | g an3 # r e3 | h uo3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000019_000020.wav,{}
+20,21,SPK1,也可以给本委员反映哟.,<BOS> y e3 # k e3 | y i3 # g ei3 # b en3 # w ei3 | y uan2 # f an3 | y ing4 # y o <EOS>,data/processed/biaobei/mfa_inputs/0/0000020_000021.wav,{}
+21,22,SPK1,摇篮牌钙维健婴儿配方奶粉.,<BOS> y ao2 | l an2 # p ai2 | g ai4 | w ei2 | j ian4 # y ing1 | er2 # p ei4 | f ang1 # n ai3 | f en3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000021_000022.wav,{}
+22,23,SPK1,鄂豫鲁皖苏局地大暴雨.,<BOS> e4 | y u4 | l u3 | w an3 # s u1 # j u2 | d i4 # d a4 | b ao4 | y u3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000022_000023.wav,{}
+23,24,SPK1,以下为薛蛮子观点摘要.,<BOS> y i3 | x ia4 # w ei2 # x ue1 # m an2 | z i # g uan1 | d ian3 # zh ai1 | y ao4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000023_000024.wav,{}
+24,25,SPK1,沉鱼落雁。闭月羞花.,<BOS> ch en2 | y u2 | l uo4 | y an4 | b i4 | y ue4 | x iu1 | h ua1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000024_000025.wav,{}
+25,26,SPK1,而许冠英亦将于明日出殡.,<BOS> er2 # x u3 | g uan4 | y ing1 # y i4 # j iang1 # y u2 # m ing2 | r i4 # ch u1 | b in4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000025_000026.wav,{}
+26,27,SPK1,阿娇与百位鬼粉丝狂欢.,<BOS> a1 | j iao1 # y u3 # b ai3 | w ei4 # g ui3 # f en3 | s i1 # k uang2 | h uan1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000026_000027.wav,{}
+27,28,SPK1,房屋买卖契约和收条.,<BOS> f ang2 | w u1 | m ai3 | m ai4 # q i4 | y ue1 # h e2 # sh ou1 | t iao2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000027_000028.wav,{}
+28,29,SPK1,遛弯儿都得躲远点.,<BOS> l iu4 | w an1 | er # d ou1 # d ei3 # d uo3 # y uan3 | d ian3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000028_000029.wav,{}
+29,30,SPK1,黑熊闯进王明辉家后院觅食.,<BOS> h ei1 | x iong2 # ch uang3 | j in4 # w ang2 | m ing2 # h ui1 | j ia1 # h ou4 | y uan4 # m i4 | sh i2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000029_000030.wav,{}
+30,31,SPK1,吴亚军与丈夫蔡奎.,<BOS> w u2 # y a4 | j un1 # y u3 # zh ang4 | f u1 # c ai4 | k ui2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000030_000031.wav,{}
+31,32,SPK1,亚硝酸盐味微咸。易溶于水.,<BOS> y a4 | x iao1 | s uan1 | y an2 # w ei4 # w ei1 | x ian2 | y i4 | r ong2 # y u2 | sh ui3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000031_000032.wav,{}
+32,33,SPK1,院墙被石棉瓦遮掩上了.,<BOS> y uan4 | q iang2 # b ei4 # sh i2 | m ian2 | w a3 # zh e1 | y an3 # sh ang4 # l e <EOS>,data/processed/biaobei/mfa_inputs/0/0000032_000033.wav,{}
+33,34,SPK1,成荫挑选我演赵玉敏.,<BOS> ch eng2 | y in1 # t iao1 | x uan3 # w o3 | y an3 # zh ao4 | y u4 | m in3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000033_000034.wav,{}
+34,35,SPK1,寅吃卯粮。无异于饮鸩止渴.,<BOS> y in2 | ch i1 | m ao3 | l iang2 | w u2 | y i4 | y u2 # y in3 | zh en4 | zh i3 | k e3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000034_000035.wav,{}
+35,36,SPK1,驴子越跑越快。越跑越疯狂.,<BOS> l v2 | z i # y ue4 # p ao3 # y ue4 # k uai4 | y ue4 # p ao3 # y ue4 # f eng1 | k uang2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000035_000036.wav,{}
+36,37,SPK1,揶揄得孙垚差点背过气儿.,<BOS> y e2 | y u2 # d e # s un1 # y ao2 # ch a4 | d ian3 # b ei4 | g uo4 # q i4 | er2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000036_000037.wav,{}
+37,38,SPK1,光棍节营销应运而生.,<BOS> g uang1 | g un4 | j ie2 # y ing2 | x iao1 # y ing4 | y un4 | er2 | sh eng1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000037_000038.wav,{}
+38,39,SPK1,高压铁塔下的低矮棚屋.,<BOS> g ao1 | y a1 # t ie3 | t a3 # x ia4 # d e # d i1 | ai3 # p eng2 | w u1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000038_000039.wav,{}
+39,40,SPK1,电影海报贫民窟百万富翁.,<BOS> d ian4 | y ing3 | h ai3 | b ao4 # p in2 | m in2 | k u1 # b ai3 | w an4 | f u4 | w eng1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000039_000040.wav,{}
+40,41,SPK1,刁维列已被另案处理.,<BOS> d iao1 | w ei2 | l ie4 # y i3 # b ei4 # l ing4 | an4 | ch u3 | l i3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000040_000041.wav,{}
+41,42,SPK1,云雾有时宛如玉带平卧峰峦山涧。有时炊烟袅绕。薄雾轻旋.,<BOS> y un2 | w u4 # y ou3 | sh i2 # w an3 | r u2 # y u4 | d ai4 # p ing2 | w o4 # f eng1 | l uan2 # sh an1 | j ian4 | y ou3 | sh i2 # ch ui1 | y an1 # n iao3 | r ao4 | b o2 | w u4 # q ing1 | x uan2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000041_000042.wav,{}
+42,43,SPK1,嘴巴周围略微肿起.,<BOS> z ui3 | b a1 # zh ou1 | w ei2 # l ve4 | w ei1 # zh ong3 | q i3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000042_000043.wav,{}
+43,44,SPK1,欢声笑语洒满村庄.,<BOS> h uan1 | sh eng1 | x iao4 | y u3 # s a3 | m an3 # c un1 | zh uang1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000043_000044.wav,{}
+44,45,SPK1,沙场竟殒命。壮志也无违.,<BOS> sh a1 | ch ang3 # j ing4 # y un3 | m ing4 | zh uang4 | zh i4 # y e3 # w u2 | w ei2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000044_000045.wav,{}
+45,46,SPK1,油炸豆腐喷喷香。馓子麻花嘣嘣脆。姊妹团子数二姜.,<BOS> y ou2 | zh a2 # d ou4 | f u3 # p en1 | p en1 | x iang1 | s an3 | z i # m a2 | h ua1 # b eng1 # b eng1 # c ui4 | z i3 | m ei4 # t uan2 | z i # sh u4 | er4 | j iang1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000045_000046.wav,{}
+46,47,SPK1,本山也真太抠门儿了.,<BOS> b en3 | sh an1 # y e3 # zh en1 # t ai4 # k ou1 | m en2 | er # l e <EOS>,data/processed/biaobei/mfa_inputs/0/0000046_000047.wav,{}
+47,48,SPK1,蔺东英的住院病案.,<BOS> l in4 | d ong1 | y ing1 # d e # zh u4 | y uan4 # b ing4 | an4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000047_000048.wav,{}
+48,49,SPK1,犬必须拴养或圈养.,<BOS> q uan3 # b i4 | x u1 # sh uan1 # y ang3 # h uo4 # j uan4 | y ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000048_000049.wav,{}
+49,50,SPK1,赫莉和印度大亨阿郎奈尔已经分居数月.,<BOS> h e4 | l i4 # h e2 # y in4 | d u4 # d a4 | h eng1 # a1 | l ang2 # n ai4 | er3 # y i3 | j ing1 # f en1 | j u1 # sh u4 | y ue4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000049_000050.wav,{}
+50,51,SPK1,难兄难弟要好好切磋切磋.,<BOS> n an4 | x iong1 | n an4 | d i4 # y ao4 # h ao3 | h ao3 # q ie1 | c uo1 # q ie1 | c uo1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000050_000051.wav,{}
+51,52,SPK1,小军大腿内侧淤青.,<BOS> x iao3 # j un1 # d a4 | t ui3 # n ei4 | c e4 # y u1 | q ing1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000051_000052.wav,{}
+52,53,SPK1,以及雌雄孔子鸟复原图.,<BOS> y i3 | j i2 # c i2 | x iong2 # k ong3 | z i3 # n iao3 # f u4 | y uan2 # t u2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000052_000053.wav,{}
+53,54,SPK1,与女演员拍吻戏。陈小春不怕应采儿吃醋.,<BOS> y u3 # n v3 | y an3 | y uan2 # p ai1 # w en3 # x i4 | ch en2 | x iao3 | ch un1 # b u2 | p a4 # y ing1 # c ai3 | er2 # ch i1 | c u4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000053_000054.wav,{}
+54,55,SPK1,仿针织粗花呢等印花面料的巧妙运用.,<BOS> f ang3 # zh en1 | zh i1 # c u1 | h ua1 | n i2 # d eng3 # y in4 | h ua1 # m ian4 | l iao4 # d e # q iao3 | m iao4 # y un4 | y ong4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000054_000055.wav,{}
+55,56,SPK1,与约瑟夫贴面搂抱.,<BOS> y u3 # y ue1 | s e4 | f u1 # t ie1 | m ian4 # l ou3 | b ao4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000055_000056.wav,{}
+56,57,SPK1,努尔别尔德耶娃请周永康转达对吴邦国委员长的亲切问候.,<BOS> n u3 | er3 # b ie2 # er3 | d e2 # y e1 | w a2 # q ing3 # zh ou1 | y ong3 | k ang1 # zh uan3 | d a2 # d ui4 # w u2 | b ang1 | g uo2 # w ei3 | y uan2 | zh ang3 # d e # q in1 | q ie4 # w en4 | h ou4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000056_000057.wav,{}
+57,58,SPK1,金友庄瞒儿下周捐肾.,<BOS> j in1 | y ou3 # zh uang1 | m an2 | er2 # x ia4 | zh ou1 # j uan1 # sh en4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000057_000058.wav,{}
+58,59,SPK1,我我我我我我和胖子一起.,<BOS> w o3 # w o3 # w o3 # w o3 # w o3 # w o3 # h e2 # p ang4 | z i # y i4 | q i3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000058_000059.wav,{}
+59,60,SPK1,嫂嫂给做的莜面窝窝和羊肉炖山药.,<BOS> s ao3 | s ao3 # g ei3 # z uo4 # d e # y ou2 | m ian4 # w o1 | w o1 # h e2 # y ang2 | r ou4 # d un4 # sh an1 | y ao4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000059_000060.wav,{}
+60,61,SPK1,曼萨尼约港口被关闭.,<BOS> m an4 | s a4 # n i2 | y ue1 # g ang3 | k ou3 # b ei4 # g uan1 | b i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000060_000061.wav,{}
+61,62,SPK1,廖碧儿马雅舒和老公晒恩爱.,<BOS> l iao4 | b i4 | er2 # m a3 | y a3 # sh u1 # h e2 # l ao3 | g ong1 # sh ai4 # en1 | ai4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000061_000062.wav,{}
+62,63,SPK1,袜子摊小老板陈永全.,<BOS> w a4 | z i # t an1 | x iao3 # l ao3 | b an3 # ch en2 | y ong3 | q uan2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000062_000063.wav,{}
+63,64,SPK1,合计筹资一点一二九一五五亿元.,<BOS> h e2 | j i4 # ch ou2 | z i1 # y i4 | d ian3 # y i1 | er4 | j iu3 # y i1 # w u3 | w u3 # y i4 | y uan2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000063_000064.wav,{}
+64,65,SPK1,鸟儿喳喳。奏起晨曲.,<BOS> n iao3 | er # zh a1 | zh a1 | z ou4 | q i3 # ch en2 | q u3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000064_000065.wav,{}
+65,66,SPK1,体强壮而后学问道德之进修勇而收效远.,<BOS> t i3 # q iang2 | zh uang4 # er2 | h ou4 # x ue2 | w en4 # d ao4 | d e2 # zh i1 # j in4 | x iu1 # y ong3 | er2 # sh ou1 | x iao4 # y uan3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000065_000066.wav,{}
+66,67,SPK1,网购或网搜股民信息。以高回报为饵请君入瓮.,<BOS> w ang3 | g ou4 # h uo4 # w ang3 # s ou1 # g u3 | m in2 # x in4 | x i1 | y i3 # g ao1 | h ui2 | b ao4 # w ei2 # er3 # q ing3 | j un1 | r u4 | w eng4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000066_000067.wav,{}
+67,68,SPK1,图为凯姆博伊斜线冲刺.,<BOS> t u2 | w ei2 # k ai3 | m u3 | b o2 | y i1 # x ie2 | x ian4 # ch ong1 | c i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000067_000068.wav,{}
+68,69,SPK1,即将钓鱼台黄尾屿赤屿三岛赏给盛宣怀为产业。供采药之用.,<BOS> j i2 | j iang1 # d iao4 | y u2 | t ai2 # h uang2 | w ei3 | y u3 # ch i4 | y u3 # s an1 | d ao3 # sh ang3 | g ei3 # sh eng4 | x uan1 | h uai2 # w ei2 # ch an3 | y e4 | g ong1 # c ai3 | y ao4 # zh i1 | y ong4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000068_000069.wav,{}
+69,70,SPK1,用不用我替你捂着嘴.,<BOS> y ong4 # b u2 | y ong4 # w o3 # t i4 # n i3 # w u3 | zh e # z ui3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000069_000070.wav,{}
+70,71,SPK1,二敬家住北五环外。上班要去亚运村华堂商场.,<BOS> er4 | j ing4 # j ia1 | zh u4 # b ei3 | w u3 | h uan2 # w ai4 | sh ang4 | b an1 # y ao4 # q u4 # y a4 | y un4 | c un1 # h ua2 | t ang2 # sh ang1 | ch ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000070_000071.wav,{}
+71,72,SPK1,有关能否改控串谋.,<BOS> y ou3 | g uan1 # n eng2 | f ou3 # g ai3 | k ong4 # ch uan4 | m ou2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000071_000072.wav,{}
+72,73,SPK1,布吕尼也与前夫哲学家拉斐尔育有一子.,<BOS> b u4 | l v3 | n i2 # y e3 # y u3 # q ian2 | f u1 # zh e2 | x ue2 | j ia1 # l a1 | f ei3 | er3 # y u4 | y ou3 # y i4 | z i3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000072_000073.wav,{}
+73,74,SPK1,又有谁肯舍施给他呢?,<BOS> y ou4 # y ou3 # sh ei2 | k en3 # sh e3 | sh i1 # g ei3 # t a1 # n e <EOS>,data/processed/biaobei/mfa_inputs/0/0000073_000074.wav,{}
+74,75,SPK1,窃贼露腿自称患麻风病.,<BOS> q ie4 | z ei2 # l u4 | t ui3 # z i4 | ch eng1 # h uan4 # m a2 | f eng1 | b ing4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000074_000075.wav,{}
+75,76,SPK1,老祖母以谋杀罪被收押.,<BOS> l ao3 | z u3 | m u3 # y i3 # m ou2 | sh a1 | z ui4 # b ei4 # sh ou1 | y a1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000075_000076.wav,{}
+76,77,SPK1,矮矬穷。别瞎夸.,<BOS> ai3 # c uo2 # q iong2 | b ie2 | x ia1 | k ua1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000076_000077.wav,{}
+77,78,SPK1,鱼在水里打旋地往外乱蹦.,<BOS> y u2 # z ai4 # sh ui3 | l i3 # d a3 | x uan2 | d e # w ang3 | w ai4 # l uan4 | b eng4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000077_000078.wav,{}
+78,79,SPK1,卓文君说|宛如山上雪。皎若云间月.,<BOS> zh uo2 | w en2 | j un1 # sh uo1 | w an3 | r u2 # sh an1 | sh ang4 # x ue3 | j iao3 # r uo4 # y un2 | j ian1 # y ue4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000078_000079.wav,{}
+79,80,SPK1,一类苗可谓命运多舛.,<BOS> y i2 | l ei4 # m iao2 # k e3 | w ei4 # m ing4 | y un4 | d uo1 | ch uan3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000079_000080.wav,{}
+80,81,SPK1,某小怂快快看看.,<BOS> m ou3 | x iao3 # s ong2 # k uai4 | k uai4 # k an4 | k an4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000080_000081.wav,{}
+81,82,SPK1,铁砂掌爱好者张辉表演劈砖.,<BOS> t ie3 | sh a1 | zh ang3 # ai4 | h ao4 | zh e3 # zh ang1 | h ui1 # b iao3 | y an3 # p i1 # zh uan1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000081_000082.wav,{}
+82,83,SPK1,而吕业新也被一根檩子压着.,<BOS> er2 # l v3 | y e4 # x in1 # y e3 # b ei4 # y i4 | g en1 # l in3 | z i # y a1 | zh e <EOS>,data/processed/biaobei/mfa_inputs/0/0000082_000083.wav,{}
+83,84,SPK1,谆谆叮咛。勿忘天山哺育情.,<BOS> zh un1 | zh un1 # d ing1 | n ing2 | w u4 | w ang4 # t ian1 | sh an1 # b u3 | y u4 # q ing2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000083_000084.wav,{}
+84,85,SPK1,现在是道儿越走越宽。人气越搞越旺.,<BOS> x ian4 | z ai4 # sh i4 # d ao4 # er # y ue4 # z ou3 # y ue4 # k uan1 | r en2 | q i4 # y ue4 # g ao3 # y ue4 | w ang4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000084_000085.wav,{}
+85,86,SPK1,毋庸讳言。人有记性。亦有忘性.,<BOS> w u2 | y ong1 | h ui4 | y an2 | r en2 | y ou3 # j i4 | x ing4 | y i4 # y ou3 # w ang4 | x ing4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000085_000086.wav,{}
+86,87,SPK1,餐后。一行人又陪汪小菲到另一诊所看耳鼻喉科.,<BOS> c an1 | h ou4 | y i4 | x ing2 # r en2 # y ou4 # p ei2 # w ang1 | x iao3 | f ei1 | d ao4 # l ing4 # y i4 # zh en3 | s uo3 # k an4 # er3 | b i2 | h ou2 | k e1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000086_000087.wav,{}
+87,88,SPK1,干嘛啊你又来勾搭谁.,<BOS> g an4 | m a # a # n i3 # y ou4 # l ai2 # g ou1 | d a1 # sh ei2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000087_000088.wav,{}
+88,89,SPK1,约婉卡与铁托没有孩子.,<BOS> y ue1 | w an3 | k a3 # y u3 # t ie3 | t uo1 # m ei2 | y ou3 # h ai2 | z i <EOS>,data/processed/biaobei/mfa_inputs/0/0000088_000089.wav,{}
+89,90,SPK1,受损宋代哥窑青釉葵瓣口盘正面损毁后.,<BOS> sh ou4 | s un3 # s ong4 | d ai4 # g e1 | y ao2 # q ing1 | y ou4 # k ui2 | b an4 # k ou3 | p an2 # zh eng4 | m ian4 # s un3 | h ui3 # h ou4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000089_000090.wav,{}
+90,91,SPK1,也欢迎卫生棉厂商找我代言.,<BOS> y e3 # h uan1 | y ing2 # w ei4 | sh eng1 | m ian2 # ch ang3 | sh ang1 # zh ao3 # w o3 # d ai4 | y an2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000090_000091.wav,{}
+91,92,SPK1,蝼蚁往还空垄亩。骐麟埋没几春秋.,<BOS> l ou2 | y i3 # w ang3 # h uan2 # k ong1 # l ong3 | m u3 | q i2 | l in2 # m ai2 | m o4 # j i3 # ch un1 | q iu1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000091_000092.wav,{}
+92,93,SPK1,如护发和护眼要戴上硅胶泳帽和摘除隐形眼镜.,<BOS> r u2 # h u4 | f a4 # h e2 # h u4 | y an3 # y ao4 # d ai4 # sh ang4 # g ui1 | j iao1 # y ong3 | m ao4 # h e2 # zh ai1 | ch u2 # y in3 | x ing2 | y an3 | j ing4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000092_000093.wav,{}
+93,94,SPK1,马浚伟与杨怡等共度生日.,<BOS> m a3 | j un4 | w ei3 # y u3 # y ang2 | y i2 # d eng3 # g ong4 | d u4 # sh eng1 | r i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000093_000094.wav,{}
+94,95,SPK1,省级文保单位满院儿溜达鸡.,<BOS> sh eng3 | j i2 # w en2 | b ao3 # d an1 | w ei4 # m an3 | y uan4 # er2 # l iu1 | d a2 # j i1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000094_000095.wav,{}
+95,96,SPK1,图为中山詹园广邀千余游客品尝重阳益寿千叟宴.,<BOS> t u2 | w ei2 # zh ong1 | sh an1 # zh an1 | y uan2 # g uang3 | y ao1 # q ian1 | y u2 # y ou2 | k e4 # p in3 | ch ang2 # ch ong2 | y ang2 # y i4 | sh ou4 # q ian1 | s ou3 | y an4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000095_000096.wav,{}
+96,97,SPK1,小文杰全身枯瘦如柴.,<BOS> x iao3 | w en2 | j ie2 # q uan2 | sh en1 # k u1 | sh ou4 # r u2 | ch ai2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000096_000097.wav,{}
+97,98,SPK1,秦某用脸盆舀水将火扑灭.,<BOS> q in2 # m ou3 | y ong4 # l ian3 | p en2 # y ao3 | sh ui3 # j iang1 # h uo3 # p u1 | m ie4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000097_000098.wav,{}
+98,99,SPK1,安全套做成巫毒娃娃样子.,<BOS> an1 | q uan2 | t ao4 # z uo4 | ch eng2 # w u1 | d u2 | w a2 | w a2 # y ang4 | z i <EOS>,data/processed/biaobei/mfa_inputs/0/0000098_000099.wav,{}
+99,100,SPK1,第三是烤鸭缺斤短两.,<BOS> d i4 | s an1 # sh i4 # k ao3 | y a1 # q ue1 | j in1 | d uan3 | l iang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000099_000100.wav,{}
+100,101,SPK1,传马伊璃怀上二胎.,<BOS> ch uan2 | m a3 # y i1 | l i2 # h uai2 | sh ang4 # er4 | t ai1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000100_000101.wav,{}
+101,102,SPK1,风筝要线。奔马要缰。航船要舵.,<BOS> f eng1 | zh eng1 # y ao4 | x ian4 | b en1 | m a3 # y ao4 # j iang1 | h ang2 | ch uan2 # y ao4 # d uo4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000101_000102.wav,{}
+102,103,SPK1,贾媛媛拖高岳上楼.,<BOS> j ia3 | y uan2 | y uan2 # t uo1 # g ao1 | y ue4 # sh ang4 | l ou2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000102_000103.wav,{}
+103,104,SPK1,黑袍鸟小黑是林八哥.,<BOS> h ei1 | p ao2 # n iao3 # x iao3 | h ei1 # sh i4 # l in2 # b a1 | g e1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000103_000104.wav,{}
+104,105,SPK1,他越摁。我越慌。发动越慢.,<BOS> t a1 # y ue4 # en4 | w o3 # y ue4 # h uang1 | f a1 | d ong4 # y ue4 | m an4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000104_000105.wav,{}
+105,106,SPK1,卯兔开新岁。两岸共迎春.,<BOS> m ao3 | t u4 # k ai1 # x in1 | s ui4 | l iang3 | an4 # g ong4 # y ing2 | ch un1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000105_000106.wav,{}
+106,107,SPK1,五月天玛莎替菊娃娃换装比基尼.,<BOS> w u3 | y ue4 | t ian1 # m a3 | sh a1 # t i4 | j u2 # w a2 | w a2 # h uan4 | zh uang1 # b i3 | j i1 | n i2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000106_000107.wav,{}
+107,108,SPK1,坡土岩性为坡坡。残积土属土质边坡.,<BOS> p o1 | t u3 # y an2 | x ing4 # w ei2 # p o1 | p o1 | c an2 | j i1 | t u3 # sh u3 # t u3 | zh i4 # b ian1 | p o1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000107_000108.wav,{}
+108,109,SPK1,墨西哥一五二一年沦为西班牙殖民地.,<BOS> m o4 | x i1 | g e1 # y i1 # w u3 | er4 # y i1 | n ian2 # l un2 | w ei4 # x i1 | b an1 | y a2 # zh i2 | m in2 | d i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000108_000109.wav,{}
+109,110,SPK1,娃哈哈企业研究院副院长李言郡算是苦主之一.,<BOS> w a2 | h a1 | h a1 # q i3 | y e4 # y an2 | j iu1 | y uan4 # f u4 # y uan4 | zh ang3 # l i3 | y an2 # j un4 # s uan4 | sh i4 # k u3 | zh u3 # zh i1 | y i1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000109_000110.wav,{}
+110,111,SPK1,周韵则获老外搂腰。兴奋大笑.,<BOS> zh ou1 | y un4 # z e2 # h uo4 # l ao3 | w ai4 # l ou3 # y ao1 | x ing1 | f en4 # d a4 | x iao4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000110_000111.wav,{}
+111,112,SPK1,我要用谷歌发送一封邮件.,<BOS> w o3 | y ao4 # y ong4 # g u3 | g e1 # f a1 | s ong4 # y i4 | f eng1 # y ou2 | j ian4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000111_000112.wav,{}
+112,113,SPK1,迪沃尔夫则吞了一口水.,<BOS> d i2 # w o4 | er3 | f u1 # z e2 # t un1 # l e # y i4 | k ou3 # sh ui3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000112_000113.wav,{}
+113,114,SPK1,先师的研究领域浩瀚无涯矣.,<BOS> x ian1 | sh i1 # d e # y an2 | j iu1 # l ing3 | y u4 # h ao4 | h an4 | w u2 | y a2 # y i3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000113_000114.wav,{}
+114,115,SPK1,因干爹而红的模特周蕊.,<BOS> y in1 # g an1 | d ie1 # er2 # h ong2 # d e # m o2 | t e4 # zh ou1 | r ui3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000114_000115.wav,{}
+115,116,SPK1,玩咖用来骗美眉.,<BOS> w an2 # k a1 # y ong4 | l ai2 # p ian4 # m ei3 | m ei2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000115_000116.wav,{}
+116,117,SPK1,五戒松散狭隘。要团结合作.,<BOS> w u3 | j ie4 # s ong1 | s an3 # x ia2 | ai4 | y ao4 # t uan2 | j ie2 | h e2 | z uo4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000116_000117.wav,{}
+117,118,SPK1,希望看一眼格尔木的树叶.,<BOS> x i1 | w ang4 # k an4 # y i4 | y an3 # g e2 | er3 | m u4 # d e # sh u4 | y e4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000117_000118.wav,{}
+118,119,SPK1,秉哲也回吻大蟒蛇.,<BOS> b ing3 | zh e2 # y e3 # h ui2 # w en3 # d a4 # m ang3 | sh e2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000118_000119.wav,{}
+119,120,SPK1,城门顶端有桃色的陶瓦。屋顶以龙凤等瑞兽装饰.,<BOS> ch eng2 | m en2 # d ing3 | d uan1 # y ou3 # t ao2 | s e4 # d e # t ao2 | w a3 | w u1 | d ing3 # y i3 # l ong2 | f eng4 # d eng3 # r ui4 | sh ou4 # zh uang1 | sh i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000119_000120.wav,{}
+120,121,SPK1,学生踏上栏杆戏弄鳄鱼.,<BOS> x ue2 | sh eng1 # t a4 | sh ang4 # l an2 | g an1 # x i4 | n ong4 # e4 | y u2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000120_000121.wav,{}
+121,122,SPK1,你看梁朝伟演色戒。刘嘉玲也得咬牙忍住呀.,<BOS> n i3 # k an4 # l iang2 | ch ao2 | w ei3 # y an3 | s e4 # j ie4 | l iu2 | j ia1 | l ing2 # y e3 # d ei3 # y ao3 | y a2 # r en3 | zh u4 # y a <EOS>,data/processed/biaobei/mfa_inputs/0/0000121_000122.wav,{}
+122,123,SPK1,这要问问火星上的鱼啦.,<BOS> zh e4 | y ao4 # w en4 | w en4 # h uo3 | x ing1 # sh ang4 # d e # y u2 # l a <EOS>,data/processed/biaobei/mfa_inputs/0/0000122_000123.wav,{}
+123,124,SPK1,钟镇涛与女儿牵手逛街.,<BOS> zh ong1 | zh en4 | t ao1 # y u3 # n v3 | er2 # q ian1 | sh ou3 # g uang4 | j ie1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000123_000124.wav,{}
+124,125,SPK1,一层可以种花花草草.,<BOS> y i4 | c eng2 # k e3 | y i3 # zh ong4 # h ua1 | h ua1 | c ao3 | c ao3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000124_000125.wav,{}
+125,126,SPK1,每家作坊损失有一二十万元.,<BOS> m ei3 | j ia1 # z uo1 | f ang1 # s un3 | sh i1 # y ou3 # y i1 # er4 | sh i2 | w an4 | y uan2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000125_000126.wav,{}
+126,127,SPK1,他面容憔悴。右腿有些瘸拐.,<BOS> t a1 # m ian4 | r ong2 # q iao2 | c ui4 | y ou4 | t ui3 # y ou3 | x ie1 # q ue2 # g uai3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000126_000127.wav,{}
+127,128,SPK1,舅舅指张韶涵殴亲.,<BOS> j iu4 | j iu4 # zh i3 # zh ang1 | sh ao2 | h an2 # ou1 | q in1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000127_000128.wav,{}
+128,129,SPK1,法院准许合同解除.,<BOS> f a3 | y uan4 # zh un3 | x u3 # h e2 | t ong2 # j ie3 | ch u2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000128_000129.wav,{}
+129,130,SPK1,另外。窝案串案多也尤为突出.,<BOS> l ing4 | w ai4 | w o1 | an4 # ch uan4 | an4 # d uo1 # y e3 # y ou2 | w ei2 # t u1 | ch u1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000129_000130.wav,{}
+130,131,SPK1,搞些林业机械主业以外的偏业呢?,<BOS> g ao3 | x ie1 # l in2 | y e4 | j i1 | x ie4 # zh u3 | y e4 # y i3 | w ai4 # d e # p ian1 | y e4 # n e <EOS>,data/processed/biaobei/mfa_inputs/0/0000130_000131.wav,{}
+131,132,SPK1,棉花收购也遭游资恶性炒作.,<BOS> m ian2 | h ua1 # sh ou1 | g ou4 # y e3 # z ao1 # y ou2 | z i1 # e4 | x ing4 # ch ao3 | z uo4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000131_000132.wav,{}
+132,133,SPK1,古永锵已军壁垓下.,<BOS> g u3 | y ong3 | q iang1 # y i3 # j un1 | b i4 # g ai1 | x ia4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000132_000133.wav,{}
+133,134,SPK1,他又哭又闹。还拿刀戳来戳去.,<BOS> t a1 # y ou4 | k u1 | y ou4 | n ao4 | h ai2 # n a2 # d ao1 # ch uo1 # l ai2 # ch uo1 # q u4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000133_000134.wav,{}
+134,135,SPK1,在放下清扫机后。万庆良改用扫帚作业.,<BOS> z ai4 # f ang4 | x ia4 # q ing1 | s ao3 | j i1 # h ou4 | w an4 | q ing4 # l iang2 # g ai3 | y ong4 # s ao4 | zh ou3 # z uo4 | y e4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000134_000135.wav,{}
+135,136,SPK1,她昂首挺胸。迎风而立。炯炯有神的双目眺望前方.,<BOS> t a1 # ang2 | sh ou3 | t ing3 | x iong1 | y ing2 | f eng1 # er2 | l i4 | j iong3 | j iong3 | y ou3 | sh en2 # d e # sh uang1 | m u4 # t iao4 | w ang4 # q ian2 | f ang1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000135_000136.wav,{}
+136,137,SPK1,而张茆日前也宣布与外籍男友订婚.,<BOS> er2 # zh ang1 # m ao2 # r i4 | q ian2 # y e3 # x uan1 | b u4 # y u3 # w ai4 | j i2 # n an2 | y ou3 # d ing4 | h un1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000136_000137.wav,{}
+137,138,SPK1,扪萝登塔远。刳木取泉遥.,<BOS> m en2 | l uo2 | d eng1 | t a3 | y uan3 | k u1 # m u4 # q u3 | q uan2 | y ao2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000137_000138.wav,{}
+138,139,SPK1,你无语我很闲滴勒.,<BOS> n i3 # w u2 | y u3 # w o3 # h en3 # x ian2 | d i | l ei1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000138_000139.wav,{}
+139,140,SPK1,问题牛肉据信源自一家罗马尼亚屠宰场.,<BOS> w en4 | t i2 # n iu2 | r ou4 # j u4 | x in4 # y uan2 | z i4 # y i4 | j ia1 # l uo2 | m a3 | n i2 | y a4 # t u2 | z ai3 | ch ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000139_000140.wav,{}
+140,141,SPK1,阿尔瓦雷斯依言行事.,<BOS> a1 | er3 | w a3 | l ei2 # s i1 # y i1 | y an2 # x ing2 | sh i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000140_000141.wav,{}
+141,142,SPK1,只愿苍天相照应。留得情谊比锦翠.,<BOS> zh i3 | y uan4 # c ang1 | t ian1 # x iang1 # zh ao4 | y ing4 | l iu2 # d e2 # q ing2 | y i4 # b i3 | j in3 | c ui4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000141_000142.wav,{}
+142,143,SPK1,菀之挑选男友最怕无趣.,<BOS> w an3 | z hi1 # t iao1 | x uan3 # n an2 | y ou3 # z ui4 # p a4 # w u2 | q u4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000143_000144.wav,{}
+143,144,SPK1,坦塔维和安南被任命为总统顾问.,<BOS> t an3 | t a3 # w ei2 | h e2 # an1 | n an2 # b ei4 # r en4 | m ing4 # w ei2 # z ong3 | t ong3 # g u4 | w en4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000143_000144.wav,{}
+144,145,SPK1,小真一边用纸巾按压止血。一边又开始低声啜泣.,<BOS> x iao3 | zh en1 # y i4 | b ian1 # y ong4 # zh i3 | j in1 # an4 | y a1 # zh i3 | x ie3 | y i4 | b ian1 # y ou4 # k ai1 | sh i3 # d i1 | sh eng1 # ch uo4 | q i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000144_000145.wav,{}
+145,146,SPK1,邱韶智因此被外界讽刺是鳄鱼头。老衬底.,<BOS> q iu1 | sh ao2 | zh i4 # y in1 | c i3 # b ei4 # w ai4 | j ie4 # f eng3 | c i4 # sh i4 # e4 | y u2 # t ou2 | l ao3 # ch en4 | d i3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000145_000146.wav,{}
+146,147,SPK1,花朵体引发网友热议效仿.,<BOS> h ua1 | d uo3 # t i3 # y in3 | f a1 # w ang3 | y ou3 # r e4 | y i4 # x iao4 | f ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000146_000147.wav,{}
+147,148,SPK1,肖克在空调厂卸完货。由原路返回寸滩港.,<BOS> x iao1 | k e4 # z ai4 # k ong1 | t iao2 # ch ang3 # x ie4 | w an2 # h uo4 | y ou2 # y uan2 | l u4 # f an3 | h ui2 # c un4 | t an1 # g ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000147_000148.wav,{}
+148,149,SPK1,由此牵出丑闻。有人蓄意栽赃萨科齐.,<BOS> y ou2 | c i3 # q ian1 | ch u1 # ch ou3 | w en2 | y ou3 | r en2 # x u4 | y i4 # z ai1 | z ang1 # s a4 | k e1 | q i2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000148_000149.wav,{}
+149,150,SPK1,瓦努阿图位于环太平洋地震多发带.,<BOS> w a3 | n u3 | a1 | t u2 # w ei4 | y u2 # h uan2 # t ai4 | p ing2 | y ang2 # d i4 | zh en4 # d uo1 | f a1 # d ai4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000149_000150.wav,{}
+150,151,SPK1,干罢农活上上网。咱也玩玩假农场.,<BOS> g an4 # b a4 # n ong2 | h uo2 # sh ang4 | sh ang4 | w ang3 | z an2 # y e3 # w an2 | w an2 # j ia3 # n ong2 | ch ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000150_000151.wav,{}
+151,152,SPK1,这就是英业达硬包软。软卖硬的理念.,<BOS> zh e4 # j iu4 | sh i4 # y ing1 | y e4 | d a2 # y ing4 # b ao1 | r uan3 | r uan3 | m ai4 # y ing4 # d e # l i3 | n ian4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000151_000152.wav,{}
+152,153,SPK1,烧花鸭。烧雏鸡儿.,<BOS> sh ao1 | h ua1 # y a1 | sh ao1 # ch u2 | j i1 # er <EOS>,data/processed/biaobei/mfa_inputs/0/0000152_000153.wav,{}
+153,154,SPK1,中枪小考拉生命垂危.,<BOS> zh ong4 | q iang1 # x iao3 # k ao3 | l a1 # sh eng1 | m ing4 | ch ui2 | w ei1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000153_000154.wav,{}
+154,155,SPK1,手捧死蚕。蚕农非常沮丧.,<BOS> sh ou3 | p eng3 | s i3 # c an2 | c an2 | n ong2 # f ei1 | ch ang2 # j u3 | s ang4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000154_000155.wav,{}
+155,156,SPK1,不过仍挡不住一些烟民吞云吐雾.,<BOS> b u2 | g uo4 # r eng2 # d ang3 | b u | zh u4 # y i4 | x ie1 # y an1 | m in2 # t un1 | y un2 | t u3 | w u4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000155_000156.wav,{}
+156,157,SPK1,亲朋好友捧着花篮前来吊唁.,<BOS> q in1 | p eng2 | h ao3 | y ou3 # p eng3 # zh e # h ua1 | l an2 # q ian2 | l ai2 # d iao4 | y an4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000156_000157.wav,{}
+157,158,SPK1,九阳豆浆机我到是会用.,<BOS> j iu3 | y ang2 # d ou4 | j iang1 | j i1 # w o3 # d ao4 # sh i4 # h ui4 # y ong4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000157_000158.wav,{}
+158,159,SPK1,全国一共有一百一十二所二一一高校.,<BOS> q uan2 | g uo2 # y i2 | g ong4 # y ou3 # y i4 | b ai3 | y i1 | sh i2 | er4 # s uo3 # er4 | y i1 | y i1 # g ao1 | x iao4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000158_000159.wav,{}
+159,160,SPK1,富豪落马源于规范监督缺位溺爱纵容下的野蛮生长.,<BOS> f u4 | h ao2 # l uo4 | m a3 # y uan2 | y u2 # g ui1 | f an4 # j ian1 | d u1 # q ue1 | w ei4 # n i4 | ai4 # z ong4 | r ong2 # x ia4 # d e # y e3 | m an2 # sh eng1 | zh ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000159_000160.wav,{}
+160,161,SPK1,王金艳左侧颅骨严重凹陷.,<BOS> w ang2 | j in1 | y an4 # z uo3 | c e4 # l u2 | g u3 # y an2 | zh ong4 # ao1 | x ian4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000160_000161.wav,{}
+161,162,SPK1,用的枪支有阿嘎枪和手枪等.,<BOS> y ong4 # d e # q iang1 | zh i1 # y ou3 # a1 | g a1 | q iang1 # h e2 # sh ou3 | q iang1 # d eng3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000161_000162.wav,{}
+162,163,SPK1,最后抹掉口角唾沫。作鸟兽散.,<BOS> z ui4 | h ou4 # m o3 | d iao4 # k ou3 | j iao3 # t uo4 | m o4 | z uo4 | n iao3 | sh ou4 | s an4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000162_000163.wav,{}
+163,164,SPK1,另一名遇难者秦萍凤是崇明滧南村人.,<BOS> l ing4 | y i4 | m ing2 # y u4 | n an4 | zh e3 # q in2 | p ing2 # f eng4 | sh i4 # ch ong2 | m ing2 # y ao2 # n an2 | c un1 # r en2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000163_000164.wav,{}
+164,165,SPK1,英雄熊尿保痛失亲人老泪纵横.,<BOS> y ing1 | x iong2 # x iong2 | n iao4 | b ao3 # t ong4 | sh i1 # q in1 | r en2 # l ao3 | l ei4 | z ong4 | h eng2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000164_000165.wav,{}
+165,166,SPK1,俄罗斯公车滥用屡遭抨击.,<BOS> e2 | l uo2 | s i1 # g ong1 | ch e1 # l an4 | y ong4 # l v3 | z ao1 # p eng1 | j i1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000165_000166.wav,{}
+166,167,SPK1,办好中国普法网英文网.,<BOS> b an4 | h ao3 # zh ong1 | g uo2 # p u3 | f a3 | w ang3 # y ing1 | w en2 | w ang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000166_000167.wav,{}
+167,168,SPK1,我妈笑我傻。我妈笑我憨.,<BOS> w o3 | m a1 # x iao4 # w o3 # sh a3 | w o3 | m a1 # x iao4 # w o3 # h an1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000167_000168.wav,{}
+168,169,SPK1,吃个甜筒降降温吧.,<BOS> ch i1 | g e4 # t ian2 | t ong3 # j iang4 | j iang4 | w en1 # b a <EOS>,data/processed/biaobei/mfa_inputs/0/0000168_000169.wav,{}
+169,170,SPK1,燕娅娅油画作品奶奶.,<BOS> y an4 | y a4 | y a4 # y ou2 | h ua4 # z uo4 | p in3 # n ai3 | n ai <EOS>,data/processed/biaobei/mfa_inputs/0/0000169_000170.wav,{}
+170,171,SPK1,在引桥上跑很危险.,<BOS> z ai4 # y in3 | q iao2 # sh ang4 # p ao3 # h en3 # w ei1 | x ian3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000170_000171.wav,{}
+171,172,SPK1,胡杏儿盛装打扮。与刘青云现身威尼斯影展.,<BOS> h u2 | x ing4 | er2 # sh eng4 | zh uang1 # d a3 | b an4 | y u3 # l iu2 | q ing1 | y un2 # x ian4 | sh en1 # w ei1 | n i2 | s i1 # y ing3 | zh an3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000171_000172.wav,{}
+172,173,SPK1,杨凯苦笑着。继续往家挪.,<BOS> y ang2 | k ai3 # k u3 | x iao4 # zh e | j i4 | x u4 # w ang3 | j ia1 # n uo2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000172_000173.wav,{}
+173,174,SPK1,约两万零两百人受影响.,<BOS> y ue1 # l iang3 | w an4 # l ing2 # l iang3 | b ai3 | r en2 # sh ou4 # y ing3 | x iang3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000173_000174.wav,{}
+174,175,SPK1,你沾我的光也够戗.,<BOS> n i3 # zh an1 # w o3 # d e # g uang1 # y e3 # g ou4 | q iang4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000174_000175.wav,{}
+175,176,SPK1,阿默舍姆位于首都伦敦以西.,<BOS> a1 | m o4 # sh e3 | m u3 # w ei4 | y u2 # sh ou3 | d u1 # l un2 | d un1 # y i3 | x i1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000175_000176.wav,{}
+176,177,SPK1,艮其止。止其所也.,<BOS> g en4 # q i2 | zh i3 | zh i3 # q i2 # s uo3 # y e3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000176_000177.wav,{}
+177,178,SPK1,而涉案被捕女疑犯姓黄.,<BOS> er2 # sh e4 | an4 # b ei4 | b u3 # n v3 # y i2 | f an4 # x ing4 | h uang2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000177_000178.wav,{}
+178,179,SPK1,暖暖也越来越逆反了.,<BOS> n uan3 # n uan3 # y e3 # y ue4 | l ai2 | y ue4 # n i4 | f an3 # l e <EOS>,data/processed/biaobei/mfa_inputs/0/0000178_000179.wav,{}
+179,180,SPK1,据介绍。非标柴油一般是用白油料掺兑走私红油.,<BOS> j u4 | j ie4 | sh ao4 | f ei1 | b iao1 # ch ai2 | y ou2 # y i4 | b an1 # sh i4 # y ong4 # b ai2 # y ou2 | l iao4 # ch an1 | d ui4 # z ou3 | s i1 # h ong2 | y ou2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000179_000180.wav,{}
+180,181,SPK1,警犬训练大队携犬巡检.,<BOS> j ing3 | q uan3 # x un4 | l ian4 # d a4 | d ui4 # x ie2 | q uan3 # x un2 | j ian3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000180_000181.wav,{}
+181,182,SPK1,广东省政协常委陈缵光走进蚁族居所.,<BOS> g uang3 | d ong1 | sh eng3 | zh eng4 | x ie2 # ch ang2 | w ei3 # ch en2 | z uan3 | g uang1 # z ou3 | j in4 # y i3 | z u2 # j u1 | s uo3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000181_000182.wav,{}
+182,183,SPK1,珠泪下落情洒空床.,<BOS> zh u1 | l ei4 # x ia4 | l uo4 # q ing2 | s a3 # k ong1 | ch uang2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000182_000183.wav,{}
+183,184,SPK1,羌管弄晴。菱歌泛夜。嬉嬉钓叟莲娃.,<BOS> q iang1 | g uan3 # n ong4 # q ing2 | l ing2 | g e1 # f an4 | y e4 | x i1 | x i1 # d iao4 | s ou3 | l ian2 | w a2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000183_000184.wav,{}
+184,185,SPK1,杨洪全是田坝镇挖夯村村民.,<BOS> y ang2 | h ong2 | q uan2 # sh i4 # t ian2 | b a4 # zh en4 # w a1 # h ang1 | c un1 # c un1 | m in2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000184_000185.wav,{}
+185,186,SPK1,在施工中无法用夯机碾轧.,<BOS> z ai4 # sh i1 | g ong1 # zh ong1 # w u2 | f a3 # y ong4 # h ang1 | j i1 # n ian3 | y a4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000185_000186.wav,{}
+186,187,SPK1,碑帖法帖字帖画帖的帖与饕餮的餮都念餮.,<BOS> b ei1 | t ie4 # f a3 | t ie4 # z i4 | t ie4 # h ua4 | t ie4 # d e # t ie4 # y u3 # t ao1 | t ie4 # d e # t ie4 # d ou1 # n ian4 # t ie4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000186_000187.wav,{}
+187,188,SPK1,没坐相意味着没教养。辱没祖宗.,<BOS> m ei2 # z uo4 # x iang4 # y i4 | w ei4 | zh e # m ei2 | j iao4 | y ang3 | r u3 | m o4 # z u3 | z ong1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000187_000188.wav,{}
+188,189,SPK1,纹饰以细绳纹为主。还有交错绳纹弦纹戳刺纹等.,<BOS> w en2 | sh i4 # y i3 # x i4 | sh eng2 # w en2 # w ei2 | zh u3 | h ai2 | y ou3 # j iao1 | c uo4 # sh eng2 | w en2 # x ian2 # w en2 # ch uo1 # c i4 | w en2 # d eng3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000188_000189.wav,{}
+189,190,SPK1,歹徒们抡着管子又打又刺。急于置人于死地.,<BOS> d ai3 | t u2 # m en # l un1 # zh e # g uan3 | z i # y ou4 # d a3 # y ou4 # c i4 | j i2 | y u2 # zh i4 # r en2 | y u2 # s i3 | d i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000189_000190.wav,{}
+190,191,SPK1,大挂车驾驶员刘卫东右脚被死死卡住无法动弹.,<BOS> d a4 # g ua4 | ch e1 # j ia4 | sh i3 | y uan2 # l iu2 | w ei4 | d ong1 # y ou4 | j iao3 # b ei4 # s i3 | s i3 # k a3 | zh u4 # w u2 | f a3 # d ong4 | t an2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000190_000191.wav,{}
+191,192,SPK1,温岭市蓝孔雀幼师颜艳红的虐童行为.,<BOS> w en1 | l ing3 | sh i4 # l an2 | k ong3 | q ue4 # y ou4 | sh i1 # y an2 # y an4 | h ong2 # d e # n ve4 | t ong2 # x ing2 | w ei2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000191_000192.wav,{}
+192,193,SPK1,且有确切材料为证.,<BOS> q ie3 # y ou3 # q ue4 | q ie4 # c ai2 | l iao4 # w ei2 | zh eng4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000192_000193.wav,{}
+193,194,SPK1,酒井法子吸毒案震惊演艺圈.,<BOS> j iu3 | j ing3 | f a3 | z i3 # x i1 | d u2 # an4 # zh en4 | j ing1 # y an3 | y i4 | q uan1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000193_000194.wav,{}
+194,195,SPK1,欢迎各位朋友常来逛逛聊聊.,<BOS> h uan1 | y ing2 # g e4 | w ei4 | p eng2 | y ou3 # ch ang2 # l ai2 # g uang4 | g uang4 # l iao2 | l iao2 <EOS>,data/processed/biaobei/mfa_inputs/0/0000194_000195.wav,{}
+195,196,SPK1,老王边啃烧饼边说.,<BOS> l ao3 | w ang2 # b ian1 # k en3 # sh ao1 | b ing3 # b ian1 # sh uo1 <EOS>,data/processed/biaobei/mfa_inputs/0/0000195_000196.wav,{}
+196,197,SPK1,警方苦苦追踪魏某.,<BOS> j ing3 | f ang1 # k u3 | k u3 # zh ui1 | z ong1 # w ei4 | m ou3 <EOS>,data/processed/biaobei/mfa_inputs/0/0000196_000197.wav,{}
+197,198,SPK1,林祖恋任乌坎村党总支书记.,<BOS> l in2 | z u3 | l ian4 | r en4 # w u1 | k an3 | c un1 # d ang3 | z ong3 | zh i1 # sh u1 | j i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000197_000198.wav,{}
+198,199,SPK1,他蹑手蹑脚进了屋。溜进卧室.,<BOS> t a1 # n ie4 | sh ou3 | n ie4 | j iao3 # j in4 # l e # w u1 | l iu1 | j in4 # w o4 | sh i4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000198_000199.wav,{}
+199,200,SPK1,此文经摘编。标题为编者制作.,<BOS> c i3 | w en2 # j ing1 # zh ai1 | b ian1 | b iao1 | t i2 # w ei2 # b ian1 | zh e3 # zh i4 | z uo4 <EOS>,data/processed/biaobei/mfa_inputs/0/0000199_000200.wav,{}

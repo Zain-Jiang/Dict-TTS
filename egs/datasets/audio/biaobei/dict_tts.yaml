@@ -1,0 +1,15 @@
+base_config:
+  - egs/egs_bases/tts/dict_tts.yaml
+  - ./base_text2mel.yaml
+
+raw_data_dir: 'data/raw/biaobei'
+processed_data_dir: 'data/processed/biaobei'
+binary_data_dir: 'data/binary/biaobei'
+
+pre_align_args:
+  txt_processor: zh_dict
+
+value_embedding_size: 185
+exp_name: ''
+
+use_dict: false

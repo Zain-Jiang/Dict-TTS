@@ -1,0 +1,70 @@
+base_config: ./fs2.yaml
+task_cls: tasks.tts.ps_flow.PortaSpeechFlowTask
+binarization_args:
+  with_spk_embed: false
+
+###########################
+# models
+###########################
+# encoders
+hidden_size: 192
+enc_ffn_kernel_size: 5
+enc_layers: 4
+word_enc_layers: 4
+encoder_type: rel_fft
+
+# dur predictor
+dur_predictor_layers: 3
+dur_predictor_kernel: 5
+predictor_dropout: 0.2
+dur_scale: log
+#dur_level: ph
+dur_level: word
+
+## fvae
+latent_size: 16
+fvae_enc_dec_hidden: 192
+fvae_kernel_size: 5
+fvae_enc_n_layers: 8
+fvae_dec_n_layers: 4
+
+# prior flow
+use_prior_glow: true
+prior_glow_hidden: 64
+glow_kernel_size: 3
+prior_glow_n_blocks: 4
+# post flow
+use_post_glow: true
+post_glow_type: 1d
+detach_postflow_input: true
+post_flow_lr: 0.001
+post_glow_hidden: 192
+post_glow_kernel_size: 3
+post_glow_n_blocks: 12
+post_glow_n_block_layers: 3
+post_share_cond_layers: false
+share_wn_layers: 4
+use_g_proj: false
+use_latent_cond: false
+res_mode: 0
+glow_type: v1
+use_txt_cond: true
+sigmoid_scale: false
+###########################
+# training and inference
+###########################
+lambda_kl: 1.0
+lambda_sent_dur: 0.0
+
+lr: 1.0
+noise_scale: 0.8
+frames_multiple: 4
+mel_loss: "ssim:0.5|l1:0.5"
+post_glow_training_start: 160000
+
+infer_post_glow: true
+load_ckpt: ''
+two_stage: true
+num_valid_plots: 10
+max_tokens: 30000
+max_updates: 480000

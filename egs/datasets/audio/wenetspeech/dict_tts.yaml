@@ -1,0 +1,12 @@
+base_config:
+  - egs/egs_bases/tts/dict_tts.yaml
+  - ./base_text2mel.yaml
+
+pre_align_args:
+  txt_processor: zh_dict
+
+value_embedding_size: 185
+exp_name: ''
+
+word_size: 8000
+use_dict: true
