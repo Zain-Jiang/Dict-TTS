@@ -16,10 +16,14 @@
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2206.02147)
-[![GitHub Stars](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social)](https://github.com/Zain-Jiang/Dict-TTS)
+[[![GitHub Stars](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social)](https://github.com/Zain-Jiang/Dict-TTS)](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Zain-Jiang/Dict-TTS)
 
 </div>
+
+We provide our implementation and pretrained models as open source in this repository.
+
+Visit our [demo page](https://dicttts.github.io/DictTTS-Demo/) for audio samples.
 
 
 
@@ -50,7 +54,7 @@ conda install montreal-forced-aligner
 ```
 
 **Download the datasets (for example, Biaobei)**
-Download Biaobei from `https://www.data-baker.com/open source.html` to `data/raw/biaobei`
+Download Biaobei from https://www.data-baker.com/open source.html to `data/raw/biaobei`
 
 **Download the pre-trained vocoder**
 ```
@@ -88,7 +92,7 @@ CUDA_VISIBLE_DEVICES=0 python data_gen/tts/bin/binarize.py --config $CONFIG
 ```
 
 ### Pre-trained models
-You can dowload the pre-trained models from https://drive.google.com/drive/folders/1oAaXlbGo03RIymwDthKEjOGmi-QcfWhm?usp=sharing and follow the infer steps below.
+You can dowload the pre-trained models from https://drive.google.com/drive/folders/1oAaXlbGo03RIymwDthKEjOGmi-QcfWhm?usp=sharing and follow the inference steps below.
 
 ### Train, Infer and Eval
 **Train**
