@@ -1,8 +1,8 @@
 # Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech
 
-<p>
+<p align="center">
     <br>
-    <img src="assets/main_architecture_1.png" width="500"/>
+    <img src="assets/main_architecture_1.png" width="750"/>
     <br>
 </p>
 
