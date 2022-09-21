@@ -1,10 +1,9 @@
 # Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech
 
+<img src="assets/main_architecture_1.png" alt="image" style="zoom: 40%;" />
 
-<img src="assets/main_architecture_1.png" alt="image" style="zoom: 50%;" />
-
-> **Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech**
-> Ziyue Jiang, Su Zhe, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, Zhenhui Ye
+> **Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech**\
+> Ziyue Jiang, Su Zhe, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, Zhenhui Ye\
 > Paper: https://arxiv.org/pdf/2206.02147
 
 <div align="center">
@@ -81,6 +80,9 @@ python data_gen/tts/bin/mfa_align.py --config $CONFIG
 ```bash
 CUDA_VISIBLE_DEVICES=0 python data_gen/tts/bin/binarize.py --config $CONFIG
 ```
+
+### Pre-trained models
+You can dowload the pre-trained models from https://drive.google.com/drive/folders/1oAaXlbGo03RIymwDthKEjOGmi-QcfWhm?usp=sharing and follow the infer steps below.
 
 ### Train, Infer and Eval
 **Train**
