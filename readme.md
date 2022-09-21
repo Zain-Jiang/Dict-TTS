@@ -16,7 +16,7 @@
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2206.02147)
-[[![GitHub Stars](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social)](https://github.com/Zain-Jiang/Dict-TTS)](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS)
+![stars](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?color=red)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Zain-Jiang/Dict-TTS)
 
 </div>
