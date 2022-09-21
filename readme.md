@@ -92,7 +92,7 @@ CUDA_VISIBLE_DEVICES=0 python data_gen/tts/bin/binarize.py --config $CONFIG
 ```
 
 ### Pre-trained models
-You can dowload the pre-trained models from https://drive.google.com/drive/folders/1oAaXlbGo03RIymwDthKEjOGmi-QcfWhm?usp=sharing and follow the inference steps below.
+You can dowload the pre-trained models from https://drive.google.com/drive/folders/1oAaXlbGo03RIymwDthKEjOGmi-QcfWhm?usp=sharing, put them to the `chechkpoints/dicttts_biaobei_wo_gumbel` and follow the inference steps below.
 
 ### Train, Infer and Eval
 **Train**
