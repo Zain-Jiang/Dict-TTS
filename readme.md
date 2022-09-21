@@ -155,7 +155,9 @@ Our codes are influenced by the following repos:
 - [Hifi-GAN](https://github.com/jik876/hifi-gan)
 - [espnet](https://github.com/espnet/espnet)
 - [Glow-TTS](https://github.com/jaywalnut310/glow-tts)
+- [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
 - [NATSpeech](https://github.com/NATSpeech/NATSpeech)
+
 
 ## License and Agreement
 Any organization or individual is prohibited from using any technology mentioned in this paper to generate someone's speech without his/her consent, including but not limited to government leaders, political figures, and celebrities. If you do not comply with this item, you could be in violation of copyright laws.
