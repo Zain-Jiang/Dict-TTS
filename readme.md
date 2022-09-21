@@ -7,7 +7,7 @@
 </p>
 
 > **Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech**\
-> Ziyue Jiang, Su Zhe, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, Zhenhui Ye\
+> Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, Zhenhui Ye\
 > Paper: https://arxiv.org/pdf/2206.02147  
 >
 > Conference: NIPS 2022
