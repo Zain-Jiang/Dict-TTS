@@ -317,22 +317,3 @@ class ZhBinarizer(BaseBinarizer):
 if __name__ == "__main__":
     set_hparams()
     ZhBinarizer().process()
-
-
-
-"""
-    glosses: 一个词的多个释义
-    get_encoding(glosses): 
-        input: self.language_model.get_input_embeddings()(inputs['input_ids'])
-        output：经过xlm之后的embedding输出
-        tokens：sos + tokenize之后的text + eos
-    
-    key：xlm之后的embedding
-    更新mask
-
-    最后的输出：
-        key：对ph做的结果
-        value：整个拼音字母表
-
-    先对拼音做，然后对word做
-"""

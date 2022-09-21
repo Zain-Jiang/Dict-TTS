@@ -21,6 +21,8 @@ table = {ord(f): ord(t) for f, t in zip(
     u'，[]()%#@&1234567890')}
 PUNCS = '、：，。！？；'
 
+###  SandhiProcessor is used to process some pronunciations that can not be specified
+###  by the semantic contexts.
 class SandhiProcessor:
     def __init__(self, language='zh'):
         self.language = language
