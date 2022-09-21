@@ -1,10 +1,12 @@
 # Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech
 
-<img src="assets/main_architecture_1.png" alt="image" style="zoom: 40%;" />
+<img src="assets/main_architecture_1.png" alt="image" style="zoom: 25%;" />
 
 > **Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech**\
 > Ziyue Jiang, Su Zhe, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, Zhenhui Ye\
-> Paper: https://arxiv.org/pdf/2206.02147
+> Paper: https://arxiv.org/pdf/2206.02147\
+>
+> Conference: NeurIPS 2022
 
 <div align="center">
 
