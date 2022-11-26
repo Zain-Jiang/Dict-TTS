@@ -50,7 +50,7 @@ class TxtProcessor(BaseTxtProcessor):
     @classmethod
     def process(cls, txt, pre_align_args):
         txt = cls.preprocess_text(txt)
-
+        txt.replace("嗯", "恩") # pypin会把嗯的声母韵母识别为''，导致ph2word出现错位。
         # https://blog.csdn.net/zhoulei124/article/details/89055403
         shengmu = cls.pinyin_with_en(txt, style=Style.INITIALS)
         yunmu = cls.pinyin_with_en(txt, style=
