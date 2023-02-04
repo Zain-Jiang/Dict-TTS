@@ -52,7 +52,7 @@ sudo apt install -y sox libsox-fmt-mp3
 **Install the aligner (MFA 2.0)**
 
 ```bash
-# with conda (recommended, and is included in the previous scripts)
+# with conda (recommended, and is included in the script above)
 conda install montreal-forced-aligner==2.0.0rc3 -c conda-forge
 
 # with pip
