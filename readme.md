@@ -31,26 +31,32 @@ Visit our [demo page](https://dicttts.github.io/DictTTS-Demo/) for audio samples
 
 **Requirements**
 ```bash
-# Install Python 3 fisrt. (Anaconda recommended)
+# Install Python 3 first. (Anaconda recommended)
 export PYTHONPATH=.
+
 # build a virtual env
-conda create -n dict_tts
+conda create -n dict_tts python=3.9 
 conda activate dict_tts
-# install requirements
-pip install -U pip
-pip install Cython numpy>=1.21.4
+
+# install pytorch requirements
+# We use RTX 3080 with CUDA 11.3
+conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+
+# Newer version of MFA has different output format
+conda install montreal-forced-aligner==2.0.0rc3 -c conda-forge
+
 pip install -r requirements.txt
 sudo apt install -y sox libsox-fmt-mp3
 ```
 
 **Install the aligner (MFA 2.0)**
+
 ```bash
+# with conda (recommended, and is included in the previous scripts)
+conda install montreal-forced-aligner==2.0.0rc3 -c conda-forge
+
 # with pip
 bash scripts/install_mfa2.sh
-
-# or with conda
-conda config --add channels conda-forge
-conda install montreal-forced-aligner
 ```
 
 **Download the datasets (for example, Biaobei)**
@@ -92,17 +98,18 @@ CUDA_VISIBLE_DEVICES=0 python data_gen/tts/bin/binarize.py --config $CONFIG
 ```
 
 ### Pre-trained models
-You can dowload the pre-trained models from https://drive.google.com/drive/folders/1oAaXlbGo03RIymwDthKEjOGmi-QcfWhm?usp=sharing, put them to the `chechkpoints/dicttts_biaobei_wo_gumbel` and follow the inference steps below.
+You can download the pre-trained models from https://drive.google.com/drive/folders/1oAaXlbGo03RIymwDthKEjOGmi-QcfWhm?usp=sharing, put them to the `chechkpoints/dicttts_biaobei_wo_gumbel` and follow the inference steps below.
 
 ### Train, Infer and Eval
 **Train**
+
 ```bash
-CUDA_VISIBLE_DEVICES=0 python tasks/run.py --config $CONFIG --exp_name dicttts_biaobei_wo_gumbel --reset --hparams="ds_workers=4,max_updates=300000,num_valid_plots=10,use_word_input=True,vocoder_ckpt=pretrained/hifigan_hifitts,max_sentences=60,val_check_interval=2000,valid_infer_interval=2000,binary_data_dir=data/binary/biaobei,word_size=4500,use_dict=True"
+CUDA_VISIBLE_DEVICES=0 python tasks/run.py --config $CONFIG --exp_name dicttts_biaobei_wo_gumbel --reset --hparams="ds_workers=4,max_updates=300000,num_valid_plots=10,use_word_input=True,vocoder_ckpt=pretrained/hifigan_hifitts,max_sentences=60,val_check_interval=2000,valid_infer_interval=2000,binary_data_dir=data/binary/biaobei,word_size=8000,use_dict=True"
 ```
 
 **Infer (GPU)**
 ```bash
-CUDA_VISIBLE_DEVICES=0 python tasks/run.py --config $CONFIG --exp_name dicttts_biaobei_wo_gumbel --infer --hparams="ds_workers=4,max_updates=300000,num_valid_plots=10,use_word_input=True,vocoder_ckpt=pretrained/hifigan_hifitts,max_sentences=60,val_check_interval=2000,valid_infer_interval=2000,binary_data_dir=data/binary/biaobei,word_size=4500,use_dict=True"
+CUDA_VISIBLE_DEVICES=0 python tasks/run.py --config $CONFIG --exp_name dicttts_biaobei_wo_gumbel --infer --hparams="ds_workers=4,max_updates=300000,num_valid_plots=10,use_word_input=True,vocoder_ckpt=pretrained/hifigan_hifitts,max_sentences=60,val_check_interval=2000,valid_infer_interval=2000,binary_data_dir=data/binary/biaobei,word_size=8000,use_dict=True"
 ```
 
 **Eval the pronunciation error rate (PER)**
@@ -127,7 +134,7 @@ python scripts/get_pron_error.py
 
 ## Todo
 
-- [ ] The pretrained models
+- [x] The pretrained models
 - [ ] The Gumbel softmax version
 
 ## Citation
